@@ -1,0 +1,23 @@
+{
+  "name": "auth-api",
+  "version": "1.0.0",
+  "description": "This part of the exercise is responsible for the users authentication.\r - `POST /login` - takes a JSON and returns an access token",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Microservices-app-todo/microservices-auth-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Microservices-app-todo/microservices-auth-api/issues"
+  },
+  "homepage": "https://github.com/Microservices-app-todo/microservices-auth-api#readme",
+  "devDependencies": {
+    "semantic-release": "^24.2.3"
+  }
+}
